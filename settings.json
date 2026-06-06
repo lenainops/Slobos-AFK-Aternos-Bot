@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lenain bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "LenainRRRR.aternos.me:39188",
     "port": 39188,
-    "version": "1.26.1",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
